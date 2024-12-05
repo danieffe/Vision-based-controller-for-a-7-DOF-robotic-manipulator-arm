@@ -1,11 +1,9 @@
-##      📔 HOMEWORK 3
-This repository has been created in order to fulfill the third homework of RoboticsLab 2024/2025 class. 
+##      Implement a vision-based task
 
-## 💻 Usage 
 ###      🔨 Build
 First of all, clone this repository in your ros2_ws/src folder
 ```
-git clone https://github.com/giancorr/Homework-3.git
+git clone https://github.com/danieffe/Vision-based-controller-for-a-7-DOF-robotic-manipulator-arm.git
 ```
 Then, build the packages using the following command inside the ros2_ws folder and source the setup.bash file 
 ```
